@@ -4,7 +4,7 @@ This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Vue](https://vuejs.org/) + Tailwind(https://tailwindcss.com/docs/installation/).
+[VSCode](https://code.visualstudio.com/) + [Vue](https://vuejs.org/guide/introduction.html) + [Tailwind](https://tailwindcss.com/docs/installation/).
 
 ## Customize configuration
 
