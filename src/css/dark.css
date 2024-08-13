@@ -1,0 +1,27 @@
+:root.dark{
+  color-scheme: dark;
+  --icon-fill: white;
+}
+
+
+:root.dark {
+  --currentColor: rgb(132, 237, 111);
+  --primary: rgb(74 60 114);
+  --secondary: rgb(74 74 85);
+  --tertiary: rgb(99 59 72);
+  --error: rgb(147 32 24);
+  --background: rgb(20, 20, 26);
+  --shadow: rgb(0 0 0);
+  --silver: rgb(160 160 173);
+  --flame: rgb(212 53 5);
+  --coral: rgb(182, 88, 60);
+  --ivory: rgb(200, 194,161);
+  --indigo50: rgb(97 112 184);
+  --indigo600: rgb(195 192 255);
+  --silver-lake: rgb(153 204 250);
+  --delft-blue: rgb(134, 141, 198);
+  --amber500: rgb(231, 154, 63);
+  
+  
+
+}

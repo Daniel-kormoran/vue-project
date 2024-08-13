@@ -1,0 +1,20 @@
+:root {
+  --currentColor: rgb(0, 0, 0);
+  --primary: rgb(103, 81, 164);
+  --secondary: rgb(149 141 165);
+  --tertiary: rgb(125 82 96);
+  --error: rgb(200, 38, 30);
+  --background: rgb(250, 250, 250);
+  --shadow: rgb(0 0 0);
+  --silver: rgb(236 235 255);
+  --flame: rgb(236,78,32);
+  --coral: rgb(239,135,107);
+  --ivory: rgb(250,244,211);
+  --indigo50: rgb(224,231,255);
+  --indigo600: rgb(90 88 146);
+  --silver-lake: rgb(91,133,170);
+  --delft-blue: rgb(65,71,112);
+  --amber500: rgb(245,158,11);
+
+  
+}
