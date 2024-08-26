@@ -14,7 +14,7 @@
         </div>
 
        <div class="max-w-full rounded-lg bg-[url('../assets/mountains-4.jpg')] bg-cover  bg-center">
-            <img class=" invisible" src="../assets/mountains-4.jpg" alt="">
+          
        </div>
         
         <div class="max-w-full rounded-lg bg-[url('../assets/mountains-3.jpg')] bg-cover bg-center">
@@ -22,7 +22,6 @@
         </div>
         
         <div class="max-w-full rounded-lg bg-[url('../assets/mountains-2.jpg')] bg-cover bg-center">
-          <img class="invisible" src="../assets/mountains-2.jpg" alt="">
         </div>
         
         <div class="max-w-full rounded-lg bg-[url('../assets/mountains-1.jpg')] bg-cover bg-center">
