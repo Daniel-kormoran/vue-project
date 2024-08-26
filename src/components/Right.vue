@@ -1,5 +1,6 @@
 <script setup>
-
+import CardComponent from './CardComponent.vue';
+import Hover 
 </script>
 
 
@@ -10,9 +11,8 @@
 
     
 
-<div class="grid grid-cols-2 2xl:grid-cols-3 gap-4 xl:gap-4">
+  <CardComponent/>  
 
-</div>
 
 
 

@@ -53,6 +53,7 @@
         </div>
       </figcaption>
     </figure>
+ 
 </template>
 
 <script setup>

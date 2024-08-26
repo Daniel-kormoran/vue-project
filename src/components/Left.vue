@@ -10,7 +10,7 @@
         <div class=" gallery  group row-start-1 col-span-2 max-w-full rounded-lg bg-[url('../assets/mountains-5.jpg')] 
         bg-cover bg-center">
           <div class="h-full w-full bg-black/10 flex items-center justify-center  group-hover:bottom-0 opacity-0 
-          group-hover:opacity-100  transition-all duration-300">
+          group-hover:opacity-100  transition-all duration-300 hover:backdrop-blur-sm">
           <button class="bg-black text-white py-2 px-5 items-center justify-center">Add to cart</button>
           </div>
           <img class="invisible" src="../assets/mountains-5.jpg" alt="">
@@ -18,14 +18,14 @@
 
        <div class=" gallery max-w-full group rounded-lg bg-[url('../assets/mountains-4.jpg')] bg-cover  bg-center">
           <div class=" h-full w-full bg-black/20 flex items-center justify-center  group-hover:bottom-0 opacity-0 
-          group-hover:opacity-100 transition-all duration-300">
+          group-hover:opacity-100 transition-all duration-300 hover:backdrop-blur-sm">
           <button class="bg-black text-white py-2 px-5">Add to cart</button>
           </div>
        </div>
         
         <div class="gallery group max-w-full rounded-lg bg-[url('../assets/mountains-3.jpg')] bg-cover bg-center">
           <div class=" h-full w-full bg-black/20 flex items-center justify-center  group-hover:bottom-0 opacity-0 
-          group-hover:opacity-100 transition-all duration-300">
+          group-hover:opacity-100 transition-all duration-300 hover:backdrop-blur-sm">
           <button class="bg-black text-white py-2 px-5">Add to cart</button>
           </div>
           <img class="invisible" src="../assets/mountains-3.jpg" alt="">
@@ -33,7 +33,7 @@
         
         <div class="gallery group max-w-full rounded-lg bg-[url('../assets/mountains-2.jpg')] bg-cover bg-center">
             <div class=" h-full w-full bg-black/20 flex items-center justify-center  group-hover:bottom-0 opacity-0 
-            group-hover:opacity-100 transition-all duration-300">
+            group-hover:opacity-100 transition-all duration-300 hover:backdrop-blur-sm">
             <button class="bg-black text-white py-2 px-5">Add to cart</button>
             </div>
         </div>
