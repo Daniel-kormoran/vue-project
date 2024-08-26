@@ -3,7 +3,7 @@ import FooterComponent from "./components/FooterComponent.vue";
 import Right from "./components/Right.vue";
 import HeaderComponent from "./components/HeaderComponent.vue";
 import Left from "./components/Left.vue";
-import Ho
+
 import './css/dark.css';
 import './css/light.css';
 
