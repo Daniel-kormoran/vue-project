@@ -134,7 +134,7 @@ const mobileNavOpen = ref(false);
               <button
                 @click="mobileNavOpen = !mobileNavOpen"
                 type="button"
-                class="inline-flex items-center justify-center gap-2 rounded-lg   px-3 py-2 text-sm font-semibold leading-5 text-gray-800 hover:border-gray-300 hover:text-gray-900 hover:shadow-sm focus:ring focus:ring-gray-300/25 active:border-gray-200 active:shadow-none dark:border-gray-700 dark:bg-gray-800 dark:text-gray-300 dark:hover:border-gray-600 dark:hover:text-gray-200 dark:focus:ring-gray-600/40 dark:active:border-gray-700"
+                class="inline-flex items-center justify-center gap-2 rounded-lg   px-3 py-2 text-sm font-semibold leading-5  hover:border-gray-300 hover:text-gray-900 hover:shadow-sm focus:ring focus:ring-gray-300/25 active:border-gray-200 active:shadow-none dark:border-gray-700  dark:text-gray-300 dark:hover:border-gray-600 dark:hover:text-gray-200 dark:focus:ring-gray-600/40 dark:active:border-gray-700"
               >
                 <svg
                   fill="currentColor"
