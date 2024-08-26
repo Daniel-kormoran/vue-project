@@ -13,16 +13,4 @@
    </template>
 
 <style scoped>
-
- .gallery {
- @apply 2xl:h-full;
-  @apply content-center;
-  @apply rounded;  
-  @apply border-2 border-silver md:border-4 border-silver;
-  @apply transition-all duration-1000 ease-in-out;
-  
-
-}
-
-
 </style>
