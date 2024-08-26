@@ -1,5 +1,6 @@
 <script setup>
 import CardComponent from './CardComponent.vue';
+import Hover from './Hover.vue';
 </script>
 
 
@@ -11,6 +12,7 @@ import CardComponent from './CardComponent.vue';
     
 
   <CardComponent/>  
+  <Hover/>
 
 
 
