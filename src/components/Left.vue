@@ -4,14 +4,16 @@ import InfoComponent from './InfoComponent.vue';
 
 
 <template>
-    <div class="hero grid grid-cols-2 grid-flow-row 2xl:grid-rows-2 2xl:grid-cols-3 gap-4 center p-3">
+    <div class="hero relative grid grid-cols-2 grid-flow-row 2xl:grid-rows-2 2xl:grid-cols-3 gap-4 center p-3">
         
-           
-        <div class=" gallery  group row-start-1 col-span-2 max-w-full rounded-lg bg-[url('../assets/mountains-5.jpg')] 
+        
+        <div class=" gallery row-start-1 col-span-2 max-w-full group rounded-lg bg-[url('../assets/mountains-5.jpg')] 
         bg-cover bg-center">
-          <InfoComponent/>
-          <img class="invisible" src="../assets/mountains-5.jpg" alt="">
-        </div>
+        <InfoComponent/>
+       
+        
+      
+      </div>
 
        <div class=" gallery max-w-full group rounded-lg bg-[url('../assets/mountains-4.jpg')] bg-cover  bg-center">
         <InfoComponent/>
@@ -19,7 +21,7 @@ import InfoComponent from './InfoComponent.vue';
         
         <div class="gallery group max-w-full rounded-lg bg-[url('../assets/mountains-3.jpg')] bg-cover bg-center">
           <InfoComponent/>
-          <img class="invisible" src="../assets/mountains-3.jpg" alt="">
+          
         </div>
         
         <div class="gallery group max-w-full rounded-lg bg-[url('../assets/mountains-2.jpg')] bg-cover bg-center">
@@ -28,7 +30,7 @@ import InfoComponent from './InfoComponent.vue';
         
         <div class="gallery group max-w-full rounded-lg  bg-cover bg-[url('../assets/mountains-1.jpg')] bg-center ">
           <InfoComponent/>
-          <img class="invisible" src="../assets/mountains-1.jpg" alt="">
+          
         </div>
     </div>
   

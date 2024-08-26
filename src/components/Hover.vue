@@ -4,7 +4,7 @@
     <!-- Image Container -->
 
       <figcaption
-        class="flip-card-front relative h-96 w-64 cursor-pointer left-0 top-0 flex  flex-col items-center justify-center gap-3 rounded-3xl bg-slate-950 p-4 text-slate-100 transition-all duration-1000 ease-in-out"
+        class="relative h-96 w-64 cursor-pointer left-0 top-0 flex  flex-col items-center justify-center gap-3 rounded-3xl bg-slate-950 p-4 text-slate-100 transition-all duration-1000 ease-in-out"
       >
         <h2 class="mb-2 text-2xl font-bold">Bald Eagle</h2>
 

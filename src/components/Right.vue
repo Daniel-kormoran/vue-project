@@ -12,7 +12,7 @@ import Hover from './Hover.vue';
     
 
   <CardComponent/>  
-  <Hover/>
+
 
 
 
