@@ -24,7 +24,7 @@ const mobileNavOpen = ref(false);
             <div  class="flex items-center space-x-2 rtl:space-x-reverse" >
       <img
           class="lg:size-24 size-16"
-          src="../assets/favicons.png"
+          src="https://vue-app-b5141.web.app/assets/favicons--pRyPIO4.png"
           alt="Your Brand"
         />
       <p class="self-center text-base  md:text-2xl font-semibold whitespace-nowrap dark:text-gray-50">Mountain's Lover</p>

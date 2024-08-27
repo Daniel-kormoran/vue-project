@@ -5,8 +5,8 @@
       <!-- Logo -->
       <div class="flex items-center gap-2 lg:w-3/12">
         <img
-          class="lg:size-32 size-16"
-          src="../assets/logo.png"
+          class="md:size-32 size-24"
+          src="https://vue-app-b5141.web.app/assets/logo-DqLSAT17.svg"
           alt="Your Brand"
         />
         
